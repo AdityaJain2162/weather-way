@@ -28,7 +28,7 @@ The app is developed using React.js and material-UI.
 - Clone the repository:
 
 ```bash
-
+git clone https://github.com/AdityaJain2162/weather-way.git
 
 ```
 
