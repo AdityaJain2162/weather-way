@@ -10,7 +10,7 @@ The app is developed using React.js and material-UI.
 <br/>
 
 ## 💻 Live Demo:
-
+[Click Here!](https://master--peaceful-shortbread-2ad27e.netlify.app/)
 
 <br/>
 
