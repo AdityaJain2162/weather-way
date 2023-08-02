@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-With Weather Way user can search locations by city name and observe the weather for the next 5-6 days and 3 hour interval.
+With [Weather Way](https://master--peaceful-shortbread-2ad27e.netlify.app/) user can search locations by city name and observe the weather for the next 5-6 days and 3 hour interval.
 <br />
 The app is developed using React.js and material-UI.
 
