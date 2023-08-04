@@ -1,4 +1,4 @@
-![Application screenshot](./public/screenshot.png)
+![Application screenshot](https://github.com/AdityaJain2162/weather-way/blob/master/public/screenshot.png)
 
 <br/>
 <br/>
